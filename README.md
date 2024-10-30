@@ -1,5 +1,7 @@
 # Findings
 
+[Notebook link](https://github.com/usman-tariq77/Module-17/blob/main/prompt_III.ipynb)
+
 ## Business Value Statement
 This analysis is aimed to identify key factors influencing client subscription to term deposits, a priority for enhancing targeted marketing strategies. By comparing various models, including Logistic Regression, Decision Trees, and Support Vector Machines (SVM), we found that the K-Nearest Neighbors (KNN) model, with appropriate tuning, yielded the most balanced results for this dataset. KNN demonstrated superior sensitivity in identifying positive cases, meaning it can better detect clients who are likely to subscribe, which is crucial for improving marketing efficiency.
 
